@@ -73,7 +73,7 @@ This project is distributed under the [insert license type, e.g., MIT License]. 
 
 ## Contact Information
 
-For inquiries, feedback, or collaborative opportunities, please reach out via [insert preferred contact details or GitHub profile link].
+For inquiries, feedback, or collaborative opportunities, please reach out via (https://github.com/birincib).
 
 ---
 
